@@ -1,8 +1,11 @@
 #include <stdio.h>
 /**
-* main -print alphabets from a to z
-* Description : using the main function this program prints alp* Return: 0
-*/
+ * main - prints the alphabets.
+ * 
+ * Description: using the main function
+ * this program prints the alphabets
+ * Return: 0
+ */
 int main(void)
 {
 char ch;
