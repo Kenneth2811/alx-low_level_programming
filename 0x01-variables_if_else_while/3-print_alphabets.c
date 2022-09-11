@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * main - prints the alphabets.
- * 
+ * main - prints the alphabets
  * Description: using the main function
- * this program prints the alphabets
+ * this program prints alphabets
  * Return: 0
  */
 int main(void)
