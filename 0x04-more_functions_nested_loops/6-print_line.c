@@ -3,6 +3,7 @@
 
 /**
 *print_line - prints a straight line
+*@n: parameter
 *Return: returns nothing
 */
 
