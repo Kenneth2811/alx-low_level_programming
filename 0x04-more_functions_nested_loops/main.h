@@ -2,9 +2,9 @@
 #define MAIN_H
 
 /**
-*main - headerf file for prototypes
-*void prototypes (void)
-*int prototypes (int)
+*main - header file for protoypes
+*void protoypes (void)
+*int protoypes (int)
 */
 
 void print_numbers(void);
