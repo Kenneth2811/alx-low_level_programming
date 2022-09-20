@@ -1,10 +1,8 @@
 #include "main.h"
-
 /**
-* rev_string - this revervse a string when the program runs and makes
-* @s: pointer run program when the program runsdownns 
+* rev_string - this reversese a string when the program runs 
+* @s: pointer run program when the program runsrm
 */
-
 void rev_string(char *s)
 {
 	int len = 0, index = 0;
