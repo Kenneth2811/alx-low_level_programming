@@ -1,7 +1,8 @@
 #include "main.h"
-/** 
-* rev_string - this reserve a string 
-* @s: pointer
+
+/**
+* rev_string - this revervse a string when the program runs and makes
+* @s: pointer run program when the program runsdownns 
 */
 
 void rev_string(char *s)
