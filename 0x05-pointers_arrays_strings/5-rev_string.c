@@ -1,7 +1,7 @@
 #include "main.h"
 /**
-* rev_string - this reversese a string when the program runs 
-* @s: pointer run program when the program runsrm
+* rev_string - this reserve a string when the program runs
+* @s: pointer run program when the program runsrm and then
 */
 void rev_string(char *s)
 {
