@@ -1,11 +1,10 @@
 #include "main.h"
 /**
- *leet - concatenates the string pointed to by @src to
- *the end of the string pointed to by @dest
- *@char: string that will be appendedhhh
- *@str: string to be concatenated upon
- * Return: return pointer to @dest
- */
+*leet - concatenates the string pointed to by @src to
+*the end of the string pointed to by @dest
+*@str: string to be concatenated upon
+* Return: return pointer to @dest
+*/
 char *leet(char *str)
 {
 	int index1 = 0, index2;
