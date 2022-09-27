@@ -4,6 +4,7 @@
 /**
  *_strchr - locates a character in a string
  *@s: string to check the rff og thr eutyio
+ *@c: char to check thy oh ujt yhui iokli y
  *Return: pointer to spot in s with c or null
  */
 char *_strchr(char *s, char c)
